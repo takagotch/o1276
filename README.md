@@ -1,6 +1,6 @@
 ###### minikura
 ---
-
+https://mypage.minikura.com/order/input_card
 
 
 ###### summary pocket
